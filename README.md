@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tejasdarode17@gmail.com**
 
-- ⚡ Fun fact **I check my spelling by their looks.**
+- ⚡ Fun fact **I check my spellings by their looks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
