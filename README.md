@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Darode</h1>
-<h3 align="center">Im a Future DevOps Engineer</h3>
+<h3 align="center">Im a WebDeveloper</h3>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Linux , AWS**
+- 🌱 I’m currently learning **JS Frameworks**
 
 - 📫 How to reach me **tejasdarode17@gmail.com**
 
