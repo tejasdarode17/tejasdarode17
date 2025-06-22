@@ -38,13 +38,13 @@ I'm a passionate full-stack developer specializing in the **MERN stack**, dedica
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejasdarode&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdarode&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejasdarode&show_icons=true&theme=radical&count_private=true" alt="Tejas's GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdarode&theme=radical" alt="Tejas's streak stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasdarode&layout=compact&theme=radical&langs_count=8" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=tejasdarode&theme=radical&row=2&column=3" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasdarode&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=tejasdarode&theme=radical&row=2&column=3&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -53,15 +53,15 @@ I'm a passionate full-stack developer specializing in the **MERN stack**, dedica
 
 <p align="center">
   <a href="https://linkedin.com/in/tejas-darode-15a257218" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:tejasdarode17@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://twitter.com/tejasdarode17" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://leetcode.com/tejasdarode/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
