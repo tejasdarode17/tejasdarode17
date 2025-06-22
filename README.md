@@ -36,7 +36,7 @@ I'm a passionate full-stack developer specializing in the **MERN stack**, dedica
   <a href="https://linkedin.com/in/tejas-darode-15a257218" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="tejasdarode17@gmail.com">
+   <a href="mailto:tejasdarode17@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://twitter.com/tejasdarode17" target="_blank">
