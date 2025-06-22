@@ -42,7 +42,7 @@ I'm a passionate full-stack developer specializing in the **MERN stack**, dedica
   <a href="https://twitter.com/tejasdarode17" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://leetcode.com/tejasdarode/" target="_blank">
+  <a href="https://leetcode.com/tejasdarode17/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
