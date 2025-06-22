@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Tejas Darode 👋</h1>
-<h3 align="center">MERN Stack Developer | JavaScript Enthusiast | Open Source Contributor</h3>
+<h3 align="center">MERN Stack Developer 
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate full-stack developer specializing in the **MERN stack**, dedicated to crafting robust and scalable web applications. With a strong foundation in JavaScript and modern web technologies, I thrive on turning complex problems into elegant solutions.
+I'm a passionate full-stack developer specializing in the **MERN stack**, dedicated to crafting robust and scalable web applications. With a strong foundation in JavaScript and modern web technologies, 
 
-- 🔭 Currently working on: Building scalable microservices architecture
-- 🌱 Currently learning: Advanced Node.js patterns & DevOps (Docker, Kubernetes)
-- 💬 Ask me about: React performance optimization, RESTful API design
+- 🌱 Currently learning: Advanced Node.js patterns , React performance optimization , RESTful API design
 - ⚡ Fun fact: I don't use spellcheck — I just look at words until they *feel* right 😄
-
+  
 ---
 
 ### 🛠 Tech Stack
@@ -26,26 +24,9 @@ I'm a passionate full-stack developer specializing in the **MERN stack**, dedica
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
 **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejasdarode&show_icons=true&theme=radical&count_private=true" alt="Tejas's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdarode&theme=radical" alt="Tejas's streak stats" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasdarode&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=tejasdarode&theme=radical&row=2&column=3&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
