@@ -44,3 +44,12 @@ I'm a passionate full-stack developer specializing in the **MERN stack**, dedica
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasdarode17&show_icons=true&theme=radical" alt="Tejas's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdarode17&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasdarode17&layout=compact&theme=radical" alt="Top Langs" />
+</p>
