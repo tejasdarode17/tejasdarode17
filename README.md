@@ -8,7 +8,6 @@
 I'm a passionate full-stack developer specializing in the **MERN stack**, dedicated to crafting robust and scalable web applications. With a strong foundation in JavaScript and modern web technologies, 
 
 - 🌱 Currently learning: Advanced Node.js patterns , React performance optimization , RESTful API design
-- ⚡ Fun fact: I don't use spellcheck — I just look at words until they *feel* right 😄
   
 ---
 
